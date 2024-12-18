@@ -6,7 +6,7 @@ Welcome to the **Twitter Sentiment Analysis** project! 🌟 Here, we dive into t
 
 ## 📊 **Dataset**
 
-Access the dataset here: [Sentiment140 Dataset](https://drive.google.com/file/d/19IeqXU96-kDt6wy1wTNyhWrIw1jbK2Kx/view?usp=sharing). 📂
+Access the dataset here: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140). 📂
 
 ## 🛠️ **Methodology**
 
